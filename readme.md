@@ -19,8 +19,8 @@
     const developements = {
       "Web Development" : {
           "Languages" : [ "HTML" , "CSS", "JavaScript", "JAVA" ] ,
-          "Frameworks" : [ "Node.js", "Express.js","NPM "MongoDB", 
-                          "MySQL", "React", "Bootstrap" ],
+          "Frameworks" : [ "Node.js", "Express.js","NPM", 
+                           "React", "Bootstrap" ],
           "DataBase" : [ "SQL", "MySQL", "Sequelize ORM", "NoSQL", 
                         "PostgreSQL", "MongoDB" ]               
       }      
