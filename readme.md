@@ -53,11 +53,7 @@
 ---
 
 <br/>
-<br/>
-
-
-<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umairali-bit&custom_title=Umair%20Ali's%20Contribution%20Graph&bg_color=FFFFF&color=6A4DFF&line=88CC00&point=6A4DFF&hide_border=true" /></a>
-  
+<br/>  
 
 
 <br/>
