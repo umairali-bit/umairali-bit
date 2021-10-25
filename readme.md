@@ -35,11 +35,10 @@
         <a href="#"><img alt="<Umair%20Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairali-bit&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="165"/></a>
     </div>
     <br>
-    <div align="left">
+    <div align="center">
         <a href="(https://git.io/streak-stats" title="Go to Source">
               <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=umairali-bit&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D"/>
          </a>
-        <img height="124" src="https://github-readme-stats.vercel.app/api/wakatime?username=umairalibit&theme=react&border_color=61dafb&langs_count=13" alt=" wakatime"/>
     </div>
 </div>  
 
