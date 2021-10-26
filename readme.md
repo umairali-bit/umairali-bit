@@ -38,7 +38,11 @@
     <div align="center">
         <a href="(https://git.io/streak-stats" title="Go to Source">
               <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=umairali-bit&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D"/>
-         </a>
+        </a>
+    </div>
+    <div>
+        [![Umair's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umairali-bit)](https://github.com/anuraghazra/github-readme-stats)
+
     </div>
 </div>  
 
