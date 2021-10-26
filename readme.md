@@ -41,9 +41,7 @@
         </a>
     </div>
     <div>
-        <a href="https://github.com/umairali-bit/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umairali-bit&repo=github-readme-stats" />
-    </a>
+  <img height="124" src="https://github-readme-stats.vercel.app/api/wakatime?username=umairali-bit&theme=react&border_color=61dafb&langs_count=13" alt=" wakatime"/>
 
     </div>
 </div>  
