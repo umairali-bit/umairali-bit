@@ -41,7 +41,9 @@
         </a>
     </div>
     <div>
-        [![Umair's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umairali-bit)](https://github.com/anuraghazra/github-readme-stats)
+        <a href="https://github.com/umairali-bit/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umairali-bit&repo=github-readme-stats" />
+    </a>
 
     </div>
 </div>  
