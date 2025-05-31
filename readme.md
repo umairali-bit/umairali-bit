@@ -3,7 +3,6 @@ You cannot use everything once you learn it. You have to built an instinct for c
 <h1 align="left"> Lets connect</h1>
 </br>
 </br>
-
 <div align="left">   
 <a href="mailto:umair.ali.geek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/umairali-se/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
