@@ -1,4 +1,4 @@
-<h3>
+<h6>
 You cannot use everything once you learn it. You have to built an instinct for coding. Deep with in, so that it becomes a part of you. You have to surrender completely. Like there is no goal. Absorb it. Soak it. Meditate on it. Protect it. Learn it not from your mind, not your heart but your soul. Let it flow in you. I think coding is the only art that doesn’t even need humanity. 
 </h3>
 
