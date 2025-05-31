@@ -1,14 +1,24 @@
-You can't use everything you learn right away.
-You have to build a coding instinct—something deeper than logic.
-Let it become part of you. Surrender to it fully.
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: 20px auto; line-height: 1.6; color: #333;">
+  <p style="font-size: 1.2rem; font-weight: 600; color: #2d8cff; margin-bottom: 1em;">
+    You can't use everything you learn right away.<br>
+    You have to build a <em>coding instinct</em> — something deeper than logic.<br>
+    <strong>Let it become part of you. Surrender to it fully.</strong>
+  </p>
 
-Not for a goal. Not for a job.
-Absorb it. Soak it in. Meditate on it. Protect it.
+  <p style="font-size: 1rem; font-style: italic; margin-bottom: 1em; color: #555;">
+    Not for a goal. Not for a job.<br>
+    Absorb it. Soak it in. Meditate on it. Protect it.
+  </p>
 
-Learn it not with your mind, not your heart—but your soul.
-Let it flow through you.
+  <p style="font-size: 1.1rem; font-weight: 500; margin-bottom: 1em; color: #222;">
+    Learn it not with your <u>mind</u>, not your <u>heart</u> — but your <u>soul</u>.<br>
+    Let it flow through you.
+  </p>
 
-Because coding... is the only art that doesn’t even need humanity.
+  <p style="font-size: 1.3rem; font-weight: 700; color: #d6336c; margin-top: 2em; border-left: 4px solid #d6336c; padding-left: 1em;">
+    Because coding... is the only art that doesn’t even need humanity.
+  </p>
+</div>
 
 
 <h1 align="left"> Lets connect</h1>
