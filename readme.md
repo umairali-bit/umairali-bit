@@ -1,39 +1,14 @@
-<h6>
-You cannot use everything once you learn it. You have to built an instinct for coding. Deep with in, so that it becomes a part of you. You have to surrender completely. Like there is no goal. Absorb it. Soak it. Meditate on it. Protect it. Learn it not from your mind, not your heart but your soul. Let it flow in you. I think coding is the only art that doesn’t even need humanity. 
-</h3>
+You can't use everything you learn right away.
+You have to build a coding instinct—something deeper than logic.
+Let it become part of you. Surrender to it fully.
 
-<style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f3f4f6;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+Not for a goal. Not for a job.
+Absorb it. Soak it in. Meditate on it. Protect it.
 
-    .cool-paragraph {
-      max-width: 600px;
-      background-color: #ffffff;
-      padding: 20px 30px;
-      border-radius: 16px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-      line-height: 1.6;
-      font-size: 1.1rem;
-      color: #333333;
-    }
-  </style>
-</head>
-<body>
+Learn it not with your mind, not your heart—but your soul.
+Let it flow through you.
 
-  <div class="cool-paragraph">
-    <p>
-      This project revolutionizes how job seekers manage their applications by offering a clear, interactive interface. 
-      With real-time email alerts, cloud-based resume management, and visual insights, it keeps everything organized and stress-free. 
-      Designed with the latest tech stack for performance and a seamless user experience.
-    </p>
-  </div>
+Because coding... is the only art that doesn’t even need humanity.
 
 
 <h1 align="left"> Lets connect</h1>
