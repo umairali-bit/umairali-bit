@@ -5,7 +5,7 @@ You cannot use everything once you learn it. You have to built an instinct for c
 </br>
 
 <div align="center">   
-<a href="mailto:umair.ali.geek@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:umair.ali.geek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/umairali-se/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://github.com/umairali-bit" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://dashboard.heroku.com/apps" target="_blank"><img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white"></a>
