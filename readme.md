@@ -10,9 +10,7 @@ You cannot use everything once you learn it. You have to built an instinct for c
 <a href="https://github.com/umairali-bit" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 
 </div>
-<div align="center">
-    <a href="https://wakatime.com/@4969442c-afaa-4dc5-9ba7-c675537af571"><img src="https://wakatime.com/badge/user/4969442c-afaa-4dc5-9ba7-c675537af571.svg" alt="Total time coded since Oct 10 2021" /></a>
-    </div>
+
 
 </br>
 </br>
