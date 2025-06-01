@@ -148,19 +148,17 @@
   <img src="https://img.shields.io/badge/MongoDB-GitHub-47A248?style=for-the-badge&logo=github&logoColor=white" alt="MongoDB GitHub Repositories" />
 </a>
 
+<!---GitHub stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 
-<!-- GitHub Stats Section -->
-<h3 style="text-align:center; font-family:'Outfit', sans-serif; margin-top: 2rem; color: #ccc;">📊 GitHub Stats</h3>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umairali-bit&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairali-bit&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairali-bit&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
-</div>
+</p>
 
-
-
-<!-- Footer Note -->
-<div style="text-align: center; font-size: 0.9rem; color: #aaa; margin-top: 2rem;">
-  <i>Note: "Top languages" only reflects my public repos, not my full skill set.</i>
-</div>
+<!---Note -->
+<p align="center">
+  ⚠️ <strong>Note:</strong> “Languages & Tools” highlights the tech I publicly code in, but doesn’t capture my full expertise.<br>
+  Behind the scenes, I’m constantly sharpening skills across multiple languages and frameworks. Keep exploring! 🚀
+</p>
