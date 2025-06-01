@@ -1,49 +1,32 @@
-<!-- Import Google Fonts for a Sleek Look -->
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+> **You can't use everything you learn right away.**  
+> You have to build a **coding instinct** — something deeper than logic.  
+> **Let it become part of you. Surrender to it fully.**
+>
+> _Not for a goal. Not for a job._  
+_Absorb it. Soak it in. Meditate on it. Protect it._
+> 
+>❤️‍🔥 Learn it not with your **mind**, not your **heart** — but your **soul**.  
+>Let it flow through you.
+> 
+ >⚡ Coding... is the only art that doesn’t even need humanity.
 
-<!-- Main Container -->
-<div style="font-family: 'Outfit', sans-serif; max-width: 700px; margin: 40px auto; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.3); color: #f1f1f1; padding: 40px 30px;">
+---
 
-  <!-- Quote Section -->
-  <p style="font-size: 1.4rem; font-weight: 700; line-height: 1.6; margin-bottom: 2rem;">
-    You can't use everything you learn right away. <br>
-    You have to build a 
-    <span style="color:#00e6e6; font-weight: 900;">coding instinct</span> — something deeper than logic. <br>
-    <span style="color: #fbd786; font-weight: bold;">Let it become part of you. Surrender to it fully.</span>
-  </p>
 
-  <!-- Meditation Thought -->
-  <p style="font-size: 1.1rem; font-style: italic; color: #d1d1d1; margin-bottom: 1.5rem;">
-    Not for a goal. Not for a job. <br>
-    Absorb it. Soak it in. Meditate on it. Protect it.
-  </p>
 
-  <!-- Soulful Highlight -->
-  <p style="font-size: 1.2rem; font-weight: 600; color: #e2eaff; margin-bottom: 2rem;">
-    Learn it not with your <span style="color: #ff85a2; text-decoration: underline;">mind</span>, not your <span style="color: #ff85a2; text-decoration: underline;">heart</span> — but your <span style="color: #ff85a2; text-decoration: underline;">soul</span>. <br>
-    Let it flow through you.
-  </p>
+---
 
-  <!-- Final Impact Line -->
-  <div style="background: #ff4f91; color: white; padding: 1rem 1.5rem; border-radius: 10px; font-size: 1.3rem; font-weight: 900; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    Coding... is the only art that doesn’t even need humanity.
-  </div>
-</div>
+---
 
+
+
+
+## 💬 Let's Connect
 <!-- Connect Section -->
-<h2 style="font-family: 'Fira Code', monospace; text-align: center; margin-top: 3rem; color: #fff;">💬 Let's Connect</h2>
+[![Email](https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umair.ali.geek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairali-se/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/umairali-bit)
 
-<div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap; margin-top: 1rem;">
-  <a href="mailto:umair.ali.geek@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/umairali-se/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/umairali-bit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
-  </a>
-</div>
 
 <!-- Language Badges -->
 ## 🚀 Languages & Tools
