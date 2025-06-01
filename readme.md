@@ -14,7 +14,7 @@ _Absorb it. Soak it in. Meditate on it. Protect it._
 
 ## 💬 Let's Connect
 <!-- Connect Section -->
-[![Email](https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umair.ali.geek@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=umair.ali.geek@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairali-se/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/umairali-bit)
 
