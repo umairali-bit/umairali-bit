@@ -12,15 +12,6 @@ _Absorb it. Soak it in. Meditate on it. Protect it._
 
 ---
 
-
-
----
-
----
-
-
-
-
 ## 💬 Let's Connect
 <!-- Connect Section -->
 [![Email](https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umair.ali.geek@gmail.com)
