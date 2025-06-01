@@ -34,7 +34,7 @@
 <h2 style="font-family: 'Fira Code', monospace; text-align: center; margin-top: 3rem; color: #fff;">💬 Let's Connect</h2>
 
 <div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap; margin-top: 1rem;">
-  <a href="mailto:umair.ali.geek@gmail.com" target="_blank">
+  <a href="mailto:umair.ali.geek@gmail.com">
     <img src="https://img.shields.io/badge/-Email-CC6600?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/umairali-se/" target="_blank">
