@@ -68,6 +68,16 @@
   <img src="https://img.shields.io/badge/Java-GitHub-ED8B00?style=for-the-badge&logo=github&logoColor=white" alt="Java GitHub Repositories" />
 </a>
 
+<!-- Angular -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Angular" target="_blank" title="Angular Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Angular-GitHub-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Angular GitHub Repositories" />
+</a>
+
+<!-- TypeScript -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=TypeScript" target="_blank" title="TypeScript Repositories on GitHub">
+  <img src="https://img.shields.io/badge/TypeScript-GitHub-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="TypeScript GitHub Repositories" />
+</a>
+
 <!-- Node.js -->
 <a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Node.js" target="_blank" title="Node.js Repositories on GitHub">
   <img src="https://img.shields.io/badge/Node.js-GitHub-339933?style=for-the-badge&logo=github&logoColor=white" alt="Node.js GitHub Repositories" />
