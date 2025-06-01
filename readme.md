@@ -48,31 +48,95 @@
 <!-- Language Badges -->
 ## 🚀 Languages & Tools
 
-<!-- Languages -->
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/umairali-bit/html-projects)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/umairali-bit/css-projects)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/umairali-bit/javascript-projects)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/umairali-bit/java-projects)
+<!-- HTML -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=HTML" target="_blank" title="HTML Repositories on GitHub">
+  <img src="https://img.shields.io/badge/HTML-GitHub-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="HTML GitHub Repositories" />
+</a>
 
-<!-- Frameworks -->
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/umairali-bit/nodejs-projects)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/umairali-bit/express-projects)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/umairali-bit/react-projects)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/umairali-bit/bootstrap-projects)
-[![Handlebars](https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)](https://github.com/umairali-bit/handlebars-projects)
+<!-- CSS -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=CSS" target="_blank" title="CSS Repositories on GitHub">
+  <img src="https://img.shields.io/badge/CSS-GitHub-1572B6?style=for-the-badge&logo=github&logoColor=white" alt="CSS GitHub Repositories" />
+</a>
 
-<!-- Databases -->
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/umairali-bit/mysql-projects)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/umairali-bit/mongodb-projects)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/umairali-bit/postgresql-projects)
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://github.com/umairali-bit/sequelize-projects)
+<!-- JavaScript -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=JavaScript" target="_blank" title="JavaScript Repositories on GitHub">
+  <img src="https://img.shields.io/badge/JavaScript-GitHub-F7DF1E?style=for-the-badge&logo=github&logoColor=white" alt="JavaScript GitHub Repositories" />
+</a>
 
-<!-- Dev Tools -->
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/umairali-bit/git-projects)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umairali-bit)
-[![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/umairali-bit/vscode-configs)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/umairali-bit/docker-projects)
+<!-- Java -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Java" target="_blank" title="Java Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Java-GitHub-ED8B00?style=for-the-badge&logo=github&logoColor=white" alt="Java GitHub Repositories" />
+</a>
 
+<!-- Node.js -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Node.js" target="_blank" title="Node.js Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Node.js-GitHub-339933?style=for-the-badge&logo=github&logoColor=white" alt="Node.js GitHub Repositories" />
+</a>
+
+<!-- Express -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Express" target="_blank" title="Express.js Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Express-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Express.js GitHub Repositories" />
+</a>
+
+<!-- NPM -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=NPM" target="_blank" title="NPM Repositories on GitHub">
+  <img src="https://img.shields.io/badge/NPM-GitHub-CB3837?style=for-the-badge&logo=github&logoColor=white" alt="NPM GitHub Repositories" />
+</a>
+
+<!-- Handlebars -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Handlebars" target="_blank" title="Handlebars Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Handlebars-GitHub-f0772b?style=for-the-badge&logo=github&logoColor=white" alt="Handlebars GitHub Repositories" />
+</a>
+
+<!-- Bootstrap -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Bootstrap" target="_blank" title="Bootstrap Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Bootstrap-GitHub-7952B3?style=for-the-badge&logo=github&logoColor=white" alt="Bootstrap GitHub Repositories" />
+</a>
+
+<!-- Maven -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Maven" target="_blank" title="Maven Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Maven-GitHub-C71A36?style=for-the-badge&logo=github&logoColor=white" alt="Maven GitHub Repositories" />
+</a>
+
+<!-- Hibernate -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Hibernate" target="_blank" title="Hibernate Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Hibernate-GitHub-59666C?style=for-the-badge&logo=github&logoColor=white" alt="Hibernate GitHub Repositories" />
+</a>
+
+<!-- Spring Boot -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Spring Boot" target="_blank" title="Spring Boot Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Spring_Boot-GitHub-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot GitHub Repositories" />
+</a>
+
+<!-- SQL -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=SQL" target="_blank" title="SQL Repositories on GitHub">
+  <img src="https://img.shields.io/badge/SQL-GitHub-4479A1?style=for-the-badge&logo=github&logoColor=white" alt="SQL GitHub Repositories" />
+</a>
+
+<!-- MySQL -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=MySQL" target="_blank" title="MySQL Repositories on GitHub">
+  <img src="https://img.shields.io/badge/MySQL-GitHub-4479A1?style=for-the-badge&logo=github&logoColor=white" alt="MySQL GitHub Repositories" />
+</a>
+
+<!-- Sequelize -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=Sequelize" target="_blank" title="Sequelize ORM Repositories on GitHub">
+  <img src="https://img.shields.io/badge/Sequelize-GitHub-52B0E7?style=for-the-badge&logo=github&logoColor=white" alt="Sequelize GitHub Repositories" />
+</a>
+
+<!-- NoSQL -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=NoSQL" target="_blank" title="NoSQL Repositories on GitHub">
+  <img src="https://img.shields.io/badge/NoSQL-GitHub-00758F?style=for-the-badge&logo=github&logoColor=white" alt="NoSQL GitHub Repositories" />
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=PostgreSQL" target="_blank" title="PostgreSQL Repositories on GitHub">
+  <img src="https://img.shields.io/badge/PostgreSQL-GitHub-336791?style=for-the-badge&logo=github&logoColor=white" alt="PostgreSQL GitHub Repositories" />
+</a>
+
+<!-- MongoDB -->
+<a href="https://github.com/umairali-bit?tab=repositories&q=&type=&language=MongoDB" target="_blank" title="MongoDB Repositories on GitHub">
+  <img src="https://img.shields.io/badge/MongoDB-GitHub-47A248?style=for-the-badge&logo=github&logoColor=white" alt="MongoDB GitHub Repositories" />
+</a>
 
 
 <!-- GitHub Stats Section -->
