@@ -62,7 +62,6 @@ Focused on **production-ready engineering**, clean architecture, and integrating
 - Mocking, validation & contract testing
 
 ---
----
 
 ### 🐍 Python & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
