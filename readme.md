@@ -55,6 +55,7 @@ Focused on **production-ready engineering**, clean architecture, and integrating
 ### 🧪 Testing & Quality Engineering
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![Mockito](https://img.shields.io/badge/Mockito-5A5A5A?style=for-the-badge)
+![Integration Tests](https://img.shields.io/badge/Integration%20Tests-2196F3?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 - Unit, Integration & API testing
@@ -90,10 +91,13 @@ Focused on **production-ready engineering**, clean architecture, and integrating
 ### 📊 Data, Big Data & Statistics
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
+![Flyway](https://img.shields.io/badge/Flyway-PostgreSQL%20Migrations-336791?style=for-the-badge)
+
 
 - Probability & Statistics
 - Data analysis & feature engineering
 - **Big Data processing** with Spark & Hadoop
+- Schema & data migrations using Flyway (versioned, repeatable)
 - ETL pipelines and large-scale data workflows
 
 ---
@@ -103,7 +107,7 @@ Focused on **production-ready engineering**, clean architecture, and integrating
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
-- AWS (EC2, S3, IAM)
+- AWS (EC2, S3, IAM, ElasticBean, CodePipeline)
 - Docker & Kubernetes
 - CI/CD pipelines, containerized deployments
 - Observability & production readiness
