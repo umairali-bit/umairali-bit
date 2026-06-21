@@ -78,11 +78,13 @@ Focused on **production-ready engineering**, clean architecture, and integrating
 ### 🤖 AI, LLMs & RAG Systems
 ![LLM](https://img.shields.io/badge/LLMs-purple?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-orange?style=for-the-badge)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
 
 - **Large Language Models (LLMs)**
 - **Retrieval-Augmented Generation (RAG)**
-- Vector search & embeddings
+- **Vector Databases & Similarity Search**
+- **Embeddings & Semantic Search**
 - **Spring AI** integration for enterprise Java + LLM workflows
 - Building AI-assisted and context-aware applications
 
